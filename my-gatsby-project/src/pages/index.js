@@ -1,5 +1,5 @@
 import React from "react"
 
 export default function Home() {
-  return <div>Please check codepipeline code!</div>
+  return <div><h2>CodePipeline AWS</h2></div>
 }
